@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ribi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;D+e+v+e+l+o+p+e+r;Developer&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=D+e+v+e+l+o+p+e+r;C+o+n+t+r+i+b+u+t+o+r;O+p+e+n+S+o+u+r+c+e&center=true&width=500&height=45" />
 </p>
 
 ---
