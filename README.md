@@ -31,8 +31,8 @@
 
 ### 📷 Profile Views
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-3-cc317c?style=for-the-badge" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ribi333&label=Profile%20views&color=cf3777&style=for-the-badge" alt="Ribi333's profile views" />
 </p>
 
 ---
