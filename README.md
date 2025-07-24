@@ -27,6 +27,12 @@
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ribi333&label=Profile%20views&color=cf3777&style=for-the-badge" alt="Ribi333's profile views" />
+</p>
+
+---
+
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ribi333&theme=radical" />
