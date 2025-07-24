@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠️ Languages:
+### 🛠️ Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
@@ -15,12 +15,12 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ribi333&show_icons=true&theme=radical" alt="yourusername" />
 </p>
 
-### 🔝 Most Used Languages:
+### 🔝 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribi333&layout=compact&theme=radical" />
 </p>
