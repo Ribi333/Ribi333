@@ -20,6 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ribi333&show_icons=true&theme=radical" alt="yourusername" />
 </p>
 
+---
+
 ### 🔝 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribi333&layout=compact&theme=radical" />
@@ -27,8 +29,10 @@
 
 ---
 
-<p align="left">
-  ![Profile Views](https://img.shields.io/badge/Profile%20Views-3-cc317c?style=flat-square&logo=github)
+### 📷 Profile Views
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-3-cc317c?style=for-the-badge" />
 </p>
 
 ---
