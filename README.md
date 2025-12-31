@@ -17,7 +17,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ribi333&show_icons=true&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ribi333&show_icons=true&theme=radical" alt="Ribi333" />
 </p>
 
 ---
